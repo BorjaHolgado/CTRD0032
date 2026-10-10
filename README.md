@@ -18,7 +18,7 @@ IPS: Intentos recurrentes.
 # Date 07/10/2026 Ejercicio del día 
 
 Version a descargar: Virtual box. 6 5 1
-Muestra todos los servicios de la maquina: Net start
+<br> Muestra todos los servicios de la maquina: Net start
 Sistema operativo - XP Profesional
 
 # Date 08/10/2026
