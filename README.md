@@ -19,7 +19,7 @@ IPS: Intentos recurrentes.
 
 Version a descargar: Virtual box. 6 5 1
 <br> Muestra todos los servicios de la maquina: Net start
-Sistema operativo - XP Profesional
+<br> Sistema operativo - XP Profesional
 
 # Date 08/10/2026
 
