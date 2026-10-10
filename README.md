@@ -1,6 +1,6 @@
 # Date 07-10-2026 Ataque de denegacion de servicio
 
-Ataques a Servidores, routers e impresoras
+Ataques a Servidores, routers e impresoras.
 
 <span style="color: red;">Ataque masivo:</span>
 
@@ -12,9 +12,11 @@ Que se hace
             Soluccion
 
 
-Ataque espía, bucle con pin hacia una máquina o varias con un but.
+Ataques espía, bucle con pin hacia una máquina o varias con un .but
 IPS: Intentos recurrentes.
-Ejercicio día 07/10/2026
-Virtual box. 6 5 1
-Net start
-Sistema operativo
+
+# Date  Ejercicio día 07/10/2026
+
+Version a descargar: Virtual box. 6 5 1
+Muestra todos los servicios de la maquina: Net start
+Sistema operativo - XP Profesional
