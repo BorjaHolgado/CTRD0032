@@ -3,7 +3,9 @@
 
 Ataques a Servidores, routers e impresoras
 
-<p style="color: #FF0000;">Ataque masivo:</p>
+<span style="color: red;">tu palabra aquí</span>
+
+<pstyle="color: #FF0000;"> Ataque masivo: </p>
 
 Mensaje a un equipo promt, XP.
 
