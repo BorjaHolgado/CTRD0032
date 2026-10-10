@@ -24,3 +24,4 @@ Lo primero para certificar una empresa se necesita una “metodología”. Vale 
 Octava metodología, muy usada en Sudamérica
 Magerit metodología muy usada en Europa.
 
+<span style="color: red;">rojo</span>
