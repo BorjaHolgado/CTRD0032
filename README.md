@@ -28,3 +28,10 @@ Ejercicio práctico de encriptación.
 Practica: Informes, para Windows, un Linux, un xp y un servidor.
 Modelo de ataques.
 
+# Date 9/10/2026 Clases de contraseñas
+
+Clientes de usuario
+Grupos especiales (windows)
+Políticas de contraseñas
+Conexión remota
+
