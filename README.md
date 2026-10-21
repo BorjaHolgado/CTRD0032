@@ -35,3 +35,9 @@ Grupos especiales (windows) <br>
 Políticas de contraseñas <br>
 Conexión remota <br>
 
+<strong> Segunda maquina en Windows </strong>
+Ejercicios practico.
+Una empresa, selección gestionada un SGSI la creación de dos cuentas de usuario 1 diurno, 2 tarde. Necesita además una tercera cuenta llamada técnico esta cuenta tendrá permisos de administración y debe poder conectarse por remoto a otras maquinas.
+La contraseña en principio será de carácter local, ver diferentes con controlador de dominio. La conexión remota debe de ser con telnet o escritorio remoto.
+
+
