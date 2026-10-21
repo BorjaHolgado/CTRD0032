@@ -47,5 +47,15 @@ Minúsculas + Números
 <strong> Contraseña de Clase C </strong> <br>
 Minúsculas + Mayúsculas + Números
 
+<br><br>
+
+El usuario debe de cambiar la contraseña al iniciar la sesión <br>
+Contraseña asignada obligatoria
+La contraseña nunca caduca <br>
+Escalada de privilegios, de menor a mayor <br>
+1. Creación de un usuario en MiPC, desde la administración, herramientas administrativas <br>
+2. Creación por comando, net user diurno <br>
+Comando: net user nombre_de_usuario contraseña /add
+
 
 
