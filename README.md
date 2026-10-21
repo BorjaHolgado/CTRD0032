@@ -30,8 +30,8 @@ Modelo de ataques.
 
 # Date 9/10/2026 Clases de contraseñas
 
-Clientes de usuario
-Grupos especiales (windows)
-Políticas de contraseñas
-Conexión remota
+Clientes de usuario <br>
+Grupos especiales (windows) <br>
+Políticas de contraseñas <br>
+Conexión remota <br>
 
