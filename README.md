@@ -47,7 +47,7 @@ Minúsculas + Números
 <strong> Contraseña de Clase C </strong> <br>
 Minúsculas + Mayúsculas + Números
 
-<br><br>
+<br>
 
 El usuario debe de cambiar la contraseña al iniciar la sesión <br>
 Contraseña asignada obligatoria
