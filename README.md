@@ -66,3 +66,11 @@ Se basan en 7 puntos, como conducta de Auditoria.
 4.	Mantener la confidencialidad de la información que obtenga en el desarrollo de la auditoria salvo que queja exigida Motivada por la autoridad legal, esta no se puede usar en beneficio propio.
 
 
+# Date 23/10/2026 Ejercicio continuación, más sistemas RAID (Marco técnico/practico) RAID 5
+
+Proceso de inicio, de ejecución.
+1)	Levantar el server_2003_dominio
+2)	Levantar el server_2003_independiente
+3)	Levantar el cliente WindowsXPPro2
+La cuenta de administrador, no se usa nunca (Buenas prácticas). Se usará la de TECNICO.
+
