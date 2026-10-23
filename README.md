@@ -74,3 +74,14 @@ Proceso de inicio, de ejecución.
 3)	Levantar el cliente WindowsXPPro2
 La cuenta de administrador, no se usa nunca (Buenas prácticas). Se usará la de TECNICO.
 
+Uniremos WindowsXPPro2, a nuestro dominio control017 (nos loguemos con TECNICO)
+
+Una vez unido al dominio, escribimos un usuario creado, ejemplo Usuario RRHH y contraseña Clase123
+Para cambiar la contraseña por cmd, rápidamente en el Server_2003_dominio
+Net user: muestra todas las cuentas
+Net user RRHH2 * : Cambia la contraseña del usuario RRHH2, escribimos la contraseña Clase1234
+Realizar segmentación lógica, no por hardware, realizar un cambio de grupo. Pero se debe de realizar una segmentación lógica por hardware.
+Pero tenemos un problema de latencia, por una red del centro que esta saturada, router “tonto” el router no limpia las tablas de conmutación y da conflictos de IP duplicadas.
+
+
+
