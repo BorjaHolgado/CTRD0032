@@ -56,7 +56,7 @@ Escalada de privilegios, de menor a mayor <br>
 1. Creación de un usuario en MiPC, desde la administración, herramientas administrativas <br>
 2. Creación por comando, net user diurno <br>
 Comando: net user nombre_de_usuario contraseña /add
------
+
 # Date 9/10/2026 Código de ética auditoria.
 
 Se basan en 7 puntos, como conducta de Auditoria.
@@ -65,6 +65,7 @@ Se basan en 7 puntos, como conducta de Auditoria.
 3.	Actuar en el interés de las partes, empleados y clientes, de un modo diligente y leal. Siempre y cuando no incurran en ISACA.
 4.	Mantener la confidencialidad de la información que obtenga en el desarrollo de la auditoria salvo que queja exigida Motivada por la autoridad legal, esta no se puede usar en beneficio propio.
 
+Subir apuntes 13, 14, 15, 16, 19, 20. 21, 22
 
 # Date 23/10/2026 Ejercicio continuación, más sistemas RAID (Marco técnico/practico) RAID 5
 
