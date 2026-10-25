@@ -90,7 +90,7 @@ El tiempo de transmisión de un paquete no puede superior a 300 segundos, si est
 En nuestro laboratorio, tendremos tres zonas de sitios de red:<br>
 Zona Controladores (Para clientes dentro del dominio)<br>
 Zona DMZ (Zona desmilitarizada, para clientes externos)<br>
-Zona Cliente<br><bR>
+Zona Cliente<br>
 
 Añadimos en al Server_2003_dominio, un nuevo disco para montar sistema RAID.
 
