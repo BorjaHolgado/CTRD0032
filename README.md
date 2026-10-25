@@ -95,6 +95,8 @@ Zona Cliente<br>
 
 Añadimos en al Server_2003_dominio, un nuevo disco para montar sistema RAID.
 
+Documento menu Files: Server_2003_dominio, un nuevo disco para montar sistema RAID.
+
 
 
 
