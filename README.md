@@ -83,5 +83,18 @@ Net user RRHH2 * : Cambia la contraseña del usuario RRHH2, escribimos la contra
 Realizar segmentación lógica, no por hardware, realizar un cambio de grupo. Pero se debe de realizar una segmentación lógica por hardware.
 Pero tenemos un problema de latencia, por una red del centro que esta saturada, router “tonto” el router no limpia las tablas de conmutación y da conflictos de IP duplicadas.
 
+Vamos ahora, al Server_2003_independiente (servidor8), nombre de equipo, grupo de trabajo: DMZ
+
+El tiempo de transmisión de un paquete no puede superior a 300 segundos, si esto supera el paquete se degrada y se corrompe el paquete lo elimina. Esto se denomina latencia.
+
+En nuestro laboratorio, tendremos tres zonas de sitios de red:
+Zona Controladores (Para clientes dentro del dominio)
+Zona DMZ (Zona desmilitarizada, para clientes externos)
+Zona Cliente
+
+Añadimos en al Server_2003_dominio, un nuevo disco para montar sistema RAID.
+
+
+
 
 
