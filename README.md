@@ -85,12 +85,12 @@ Pero tenemos un problema de latencia, por una red del centro que esta saturada, 
 
 Vamos ahora, al Server_2003_independiente (servidor8), nombre de equipo, grupo de trabajo: DMZ
 
-El tiempo de transmisión de un paquete no puede superior a 300 segundos, si esto supera el paquete se degrada y se corrompe el paquete lo elimina. Esto se denomina latencia.
+El tiempo de transmisión de un paquete no puede superior a 300 segundos, si esto supera el paquete se degrada y se corrompe el paquete lo elimina. Esto se denomina latencia.<br>
 
-En nuestro laboratorio, tendremos tres zonas de sitios de red:
-Zona Controladores (Para clientes dentro del dominio)
-Zona DMZ (Zona desmilitarizada, para clientes externos)
-Zona Cliente
+En nuestro laboratorio, tendremos tres zonas de sitios de red:<br>
+Zona Controladores (Para clientes dentro del dominio)<br>
+Zona DMZ (Zona desmilitarizada, para clientes externos)<br>
+Zona Cliente<br><bR>
 
 Añadimos en al Server_2003_dominio, un nuevo disco para montar sistema RAID.
 
