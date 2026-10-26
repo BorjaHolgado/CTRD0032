@@ -65,7 +65,23 @@ Se basan en 7 puntos, como conducta de Auditoria.
 3.	Actuar en el interés de las partes, empleados y clientes, de un modo diligente y leal. Siempre y cuando no incurran en ISACA.
 4.	Mantener la confidencialidad de la información que obtenga en el desarrollo de la auditoria salvo que queja exigida Motivada por la autoridad legal, esta no se puede usar en beneficio propio.
 
-Subir apuntes 13, 14, 15, 16, 19, 20. 21, 22
+Subir apuntes 14, 15, 16, 19, 20. 21, 22
+
+# Date 13/10/2026 -Estudio de salvaguardas-
+
+Se pueden resumir en tres puntos.
+
+1. Preventivas o proactivas: Permiten la ocurrencia de una incidencia.
+2. Reactivas: Persiguen reducir el daño una vez ha ocurrido. Persiguen reducir el daño una vez ocurrido.
+3. Salvaguardar de “no hacer nada” o aceptar el riesgo existente para los equipos. Pero solo cuando se cumplen los criterios de aceptación del riesgo de la empresa y solo cuando esta decisión sea autorizada firma de dirección.
+   
+Una empresa cuya política de seguridad establece que se aprueban los riesgos cuando sean inferiores al 10%, del valor de los activos. Si el análisis de riesgos establece que es del 5% del valor de los equipos, puede decir asumirlos, salvaguardar para reducir el riesgo. Pero siempre debe ponerse en conocimientos de la dirección que es el organismo. Instancia de riesgos asumidos.
+
+<em>Salvaguardar preventivos</em>
+	Privilegios mínimos
+<em>Salvaguardar de carácter preventivo</em>
+    Salvaguardar de no hacer nada
+
 
 # Date 23/10/2026 Ejercicio continuación, más sistemas RAID (Marco técnico/practico) RAID 5
 
