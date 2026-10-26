@@ -77,9 +77,9 @@ Se pueden resumir en tres puntos.
    
 Una empresa cuya política de seguridad establece que se aprueban los riesgos cuando sean inferiores al 10%, del valor de los activos. Si el análisis de riesgos establece que es del 5% del valor de los equipos, puede decir asumirlos, salvaguardar para reducir el riesgo. Pero siempre debe ponerse en conocimientos de la dirección que es el organismo. Instancia de riesgos asumidos.
 
-<em>Salvaguardar preventivos</em>
+<em>Salvaguardar preventivos</em><br>
 	Privilegios mínimos
-<em>Salvaguardar de carácter preventivo</em>
+<em>Salvaguardar de carácter preventivo</em><br>
     Salvaguardar de no hacer nada
 
 
