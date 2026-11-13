@@ -57,7 +57,7 @@ Escalada de privilegios, de menor a mayor <br>
 2. Creación por comando, net user diurno <br>
 Comando: net user nombre_de_usuario contraseña /add
 
-# Date 9/10/2026 Código de ética auditoria.
+# Date 9/10/2026 Código de ética auditoria
 
 Se basan en 7 puntos, como conducta de Auditoria.
 1.	Apoyar la implementación y el cumplimiento de los estándares, procedimientos, normas y controles de los sistemas informáticos y de la empresa.
