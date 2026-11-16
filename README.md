@@ -126,6 +126,9 @@ Documento menu Files: Server_2003_dominio, un nuevo disco para montar sistema RA
 
 <img width="1600" height="1082" alt="Criptografia 16112026" src="https://github.com/user-attachments/assets/cb6dbad6-a85e-42a6-b702-2cf6774df726" />
 
+<br>
+https://www.estadisticaparatodos.es/taller/criptografia/criptografia.html
+
 
 
 
