@@ -114,6 +114,18 @@ Añadimos en al Server_2003_dominio, un nuevo disco para montar sistema RAID.
 Documento menu Files: Server_2003_dominio, un nuevo disco para montar sistema RAID.
 
 
+# Date 16/11/2026 Criptografía se inventó para defensa
+
+•	Notación Histórica
+•	Criptografía Clásica
+•	Criptografía Moderada: Ocultación
+•	Criptografía Simétrica: Ocultación
+•	Criptografía Asimétrica
+•	Escenografía: Puede realizarlo cualquier usuario
+•	Funciones resumen Hash
+
+<img width="1600" height="1082" alt="Criptografia 16112026" src="https://github.com/user-attachments/assets/cb6dbad6-a85e-42a6-b702-2cf6774df726" />
+
 
 
 
